@@ -6,6 +6,7 @@ public class Serie : EntidadeBase
     private string Titulo { get; set; }
     private string Descricao { get; set; }
     private int Ano { get; set; }
+    private bool existe { get; set; }
 
     public Serie(int id, Genero genero, string titulo, string descricao, int ano)
     {
@@ -13,6 +14,7 @@ public class Serie : EntidadeBase
         this.Genero = genero;
         this.Descricao = descricao;
         this.Ano = ano;
+        this.existe = true;
     }
 
     public override string ToString()
@@ -33,5 +35,10 @@ public class Serie : EntidadeBase
     public int GetId()
     {
         return this.Id;
+    }
+
+    public void Exclui()
+    {
+        this.existe = false;
     }
 }

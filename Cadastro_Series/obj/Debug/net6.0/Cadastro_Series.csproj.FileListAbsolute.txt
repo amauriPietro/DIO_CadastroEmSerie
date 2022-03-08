@@ -1,0 +1,15 @@
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Cadastro_Series\Cadastro_Series\bin\Debug\net6.0\Cadastro_Series.exe
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Cadastro_Series\Cadastro_Series\bin\Debug\net6.0\Cadastro_Series.deps.json
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Cadastro_Series\Cadastro_Series\bin\Debug\net6.0\Cadastro_Series.runtimeconfig.json
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Cadastro_Series\Cadastro_Series\bin\Debug\net6.0\Cadastro_Series.dll
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Cadastro_Series\Cadastro_Series\bin\Debug\net6.0\Cadastro_Series.pdb
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Cadastro_Series\Cadastro_Series\obj\Debug\net6.0\Cadastro_Series.csproj.AssemblyReference.cache
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Cadastro_Series\Cadastro_Series\obj\Debug\net6.0\Cadastro_Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Cadastro_Series\Cadastro_Series\obj\Debug\net6.0\Cadastro_Series.AssemblyInfoInputs.cache
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Cadastro_Series\Cadastro_Series\obj\Debug\net6.0\Cadastro_Series.AssemblyInfo.cs
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Cadastro_Series\Cadastro_Series\obj\Debug\net6.0\Cadastro_Series.csproj.CoreCompileInputs.cache
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Cadastro_Series\Cadastro_Series\obj\Debug\net6.0\Cadastro_Series.dll
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Cadastro_Series\Cadastro_Series\obj\Debug\net6.0\refint\Cadastro_Series.dll
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Cadastro_Series\Cadastro_Series\obj\Debug\net6.0\Cadastro_Series.pdb
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Cadastro_Series\Cadastro_Series\obj\Debug\net6.0\Cadastro_Series.genruntimeconfig.cache
+C:\Users\Amauri Pietropaolo\Documents\estudos\dotnet\DotNet\Cadastro_Series\Cadastro_Series\obj\Debug\net6.0\ref\Cadastro_Series.dll
